@@ -3,9 +3,9 @@ entries:
   another-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T03:11:33.305130702Z"
+    created: "2021-04-06T04:59:45.589853369Z"
     description: A Helm chart for Kubernetes
-    digest: cee322db609eca9afd40f9ef53f9b95a0c7eaa1d064c7b5ecddc28b7201ffbca
+    digest: 0677a1a1171b5cd3d56c93ff5e8a8d6ff79740b6d5ce8d5fe04a4cab3defc713
     name: another-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T03:11:33.304543401Z"
+    created: "2021-04-06T04:59:45.589273269Z"
     description: A Helm chart for Kubernetes
     digest: e944c5ba669c9602b9392d2a4b61937c26b498de5ea3141fdf9e0e1d201fe118
     name: another-chart
@@ -23,7 +23,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T03:11:33.3039311Z"
+    created: "2021-04-06T04:59:45.588643669Z"
     description: A Helm chart for Kubernetes
     digest: 910a461758f7c8235734f210e950173c7dde9054bef3e2c17ae522fdcdc3e0a0
     name: another-chart
@@ -34,12 +34,12 @@ entries:
   test-project:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-04-06T03:11:33.306172803Z"
+    created: "2021-04-06T04:59:45.590513769Z"
     description: A Helm chart for Kubernetes
-    digest: 58d6d8a3c7d9548dedf9aef7dc0cd425214e9c0e2e0139d1b9adca73b9a25f74
+    digest: 14c2c231e08bcd11cb0dfa0788c48b3e54acb4208b0755d7d453462c5f74c6c9
     name: test-project
     type: application
     urls:
     - https://strangiato.github.io/helm-package-test/test-project-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-06T03:11:33.303062999Z"
+generated: "2021-04-06T04:59:45.587853669Z"
